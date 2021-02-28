@@ -5,7 +5,6 @@ type MadImageProps = {
   style: ViewStyle;
 };
 
-
 export const MadImageViewManager = requireNativeComponent<MadImageProps>(
   'MadImageView'
 );

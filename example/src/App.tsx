@@ -3,7 +3,6 @@ import * as React from 'react';
 import { StyleSheet, View } from 'react-native';
 import MadImageViewManager from 'react-native-mad-image';
 
-
 export default function App() {
   return (
     <View style={styles.container}>
